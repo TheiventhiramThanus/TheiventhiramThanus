@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thanus Theiventhiram
 
-🎓 Software Engineering Student @ ESOFT Metro Campus, Jaffna  
+🎓 Software Engineering Student @ ESOFT UNI, Jaffna  
 💻 MERN Developer | WordPress Developer  
 🎨 UI/UX Designer | 📈 Marketing Specialist  
 
