@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Thanus Theiventhiram
-
-🎓 Software Engineering Student @ ESOFT UNI, Jaffna  
-💻 MERN Developer | WordPress Developer  
-🎨 UI/UX Designer | 📈 Marketing Specialist  
-
-🚀 Working @ Venom X Technology & Aaras Tech  
+👨‍🎓 BEng (Hons) Software Engineering Graduate 
+👨‍💻 Full-Stack & WordPress Developer 
+🤖 Aspiring AI Engineer 
+📈 Marketing Specialist 
+🏰 Co-Founder @ Aaras Tech 
+⚡ Former Member @ Venom X Technology | 🛠️ Former Team Member @ Lankajob | 🎓 Former President — Student Council @ ESU Jaffna
 
 ## 🛠️ Tech Stack
 
